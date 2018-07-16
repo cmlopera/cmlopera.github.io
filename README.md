@@ -1,2 +1,2 @@
 # cmlopera.github.io
-Página Web en GitHub de Carlos Mario Lopera Gómez, Universidad Nacional de Colombia, Sede Medellín
+Página Web en GitHub del profesor asociado Carlos M. Lopera-Gómez Ph.D. de la Universidad Nacional de Colombia, Sede Medellín.
