@@ -1,2 +1,10 @@
-# cmlopera.github.io
-Página Web en GitHub del profesor asociado Carlos M. Lopera-Gómez Ph.D. de la Universidad Nacional de Colombia, Sede Medellín.
+Página Web en GitHub del profesor asociado Carlos M. Lopera-Gómez Ph.D. <cmlopera@unal.edu.co> de la [Universidad Nacional de Colombia, Sede Medellín](medellin.unal.edu.co).
+
+# [Seminario de R para Ciencia de Datos](https://cmlopera.github.io/R-Seminar/).
+
+Notas de estudio del Seminario de R para Ciencia de Datos basado en el libro [R for Data Science](http://shop.oreilly.com/product/0636920034407.do).
+
+
+
+
+
