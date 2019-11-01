@@ -2,7 +2,7 @@ Página Web en GitHub del profesor asociado Carlos M. Lopera-Gómez Ph.D. <cmlop
 
 # [Seminario de R para Ciencia de Datos](https://cmlopera.github.io/R-Seminar/).
 
-Notas de estudio del Seminario de R para Ciencia de Datos basado en el libro [R for Data Science](http://shop.oreilly.com/product/0636920034407.do).
+Notas de estudio del Seminario de R para Ciencia de Datos basado en el libro [R for Data Science](https://r4ds.had.co.nz/).
 
 
 
